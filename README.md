@@ -1,5 +1,4 @@
-<b>
-### ⚡ Github Stats</b>
+<b>⚡ Github Stats</b>
 
 <div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormxllo&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default"/>	
